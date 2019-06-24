@@ -13,7 +13,7 @@ def key_for_min_value(name_hash)
        lowest_key = key
        lowest_value = value
     end
-    binding.pry
+    # binding.pry
    end
   lowest_key
 end
